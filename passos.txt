@@ -1,8 +1,8 @@
 1- Configuração do Git Local:
 
-git config --global user.name RibahDev
+git config --global user.name fuzinelli500280
 
-git config -global user.email joao.ribeiro17@outlook.com
+git config -global user.email riancaiofuzinelli12@gmail.com
 
 git clone "URL"
 
