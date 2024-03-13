@@ -1,38 +1,38 @@
 ﻿[
   {
-    "Nome": "Aço",
-    "Cor": "#aab"
+    "Nome": "Espadachim",
+    "Cor": "#22b"
   },
   {
-    "Nome": "Água",
-    "Cor": "#39f"
+    "Nome": "Guerreiro",
+    "Cor": "#77b"
   },
   {
-    "Nome": "Dragão",
+    "Nome": "Vilão",
     "Cor": "#76e"
   },
   {
-    "Nome": "Elétrico",
+    "Nome": "Líder",
     "Cor": "#fc3"
   },
   {
-    "Nome": "Fada",
+    "Nome": "Humano",
     "Cor": "#e9e"
   },
   {
-    "Nome": "Fantasma",
-    "Cor": "#66b"
+    "Nome": "Gênio",
+    "Cor": "#77b"
   },
   {
-    "Nome": "Fogo",
+    "Nome": "Viking",
     "Cor": "#f42"
   },
   {
-    "Nome": "Gelo",
+    "Nome": "Pirata",
     "Cor": "#6cf"
   },
   {
-    "Nome": "Inseto",
+    "Nome": "Humanoide",
     "Cor": "#ab6"
   },
   {
@@ -40,35 +40,27 @@
     "Cor": "#b54"
   },
   {
-    "Nome": "Normal",
+    "Nome": "Assassino",
     "Cor": "#aa9"
   },
   {
-    "Nome": "Pedra",
+    "Nome": "Atirador",
     "Cor": "#ba6"
   },
   {
-    "Nome": "Planta",
+    "Nome": "Dobrador",
     "Cor": "#7c5"
   },
   {
-    "Nome": "Psíquico",
+    "Nome": "Deus",
     "Cor": "#f59"
   },
   {
-    "Nome": "Sombrio",
+    "Nome": "Demônio",
     "Cor": "#754"
   },
   {
-    "Nome": "Terrestre",
+    "Nome": "Psicopata",
     "Cor": "#db5"
-  },
-  {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
   }
 ]

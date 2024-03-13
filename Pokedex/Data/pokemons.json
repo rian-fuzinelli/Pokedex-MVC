@@ -2,9 +2,9 @@
   {
     "Numero": 1,
     "Nome": "Guts",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Descricao": "Guts é um mercenário que luta desde a infância. Nascido no momento em que sua mãe foi enforcada, ele foi adotado pela prostituta Shisu e depois criado pelo líder abusivo de seu primeiro bando, Gambino, até se juntar ao Bando do Falcão comandado por Griffith.",
     "Especie": "Espadachim",
-    "Tipo": [ "Espadachim", "Mercenário" ] ,
+    "Tipo": [ "Espadachim", "Guerreiro", "Humano" ] ,
     "Altura": 2.04,
     "Peso": 115,
     "Imagem": "\\img\\pokemons\\guts.jpg"
@@ -12,9 +12,9 @@
   {
     "Numero": 2,
     "Nome": "Griffith",
-    "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
+    "Descricao": "Griffith é um homem de extremo carisma, beleza e habilidades de combate, aparentando ser um homem amigável, compreensivo e amável. No fundo, ele é um homem frio e calculista, e apesar dele valorizar um pouco a vida de seus companheiros (Especialmente a de Guts), ele geralmente não hesita em sacrificá-los para alcançar seus objetivos. Porém, ele sabe desse lado dele, e aparenta ser um pouco inseguro, pois ele não sabe se é uma boa pessoa.",
     "Especie": "Vilão",
-    "Tipo": [ "Vilão", "Líder" ],
+    "Tipo": [ "Vilão", "Líder", "Demônio" ],
     "Altura": 1.78,
     "Peso": 75,
     "Imagem": "\\img\\pokemons\\griffith.png"
@@ -22,9 +22,9 @@
   {
     "Numero": 3,
     "Nome": "Miyamoto Musashi",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
+    "Descricao": "Musashi é retratado como alguém que está constantemente buscando aperfeiçoar suas habilidades na espada, mas também está em busca de um propósito maior na vida. Ele é retratado como um indivíduo introspectivo e filosófico, que questiona as convenções sociais e busca uma compreensão mais profunda do significado da existência e do caminho do guerreiro.",
     "Especie": "Espadachim",
-    "Tipo": [ "Espadachim", "Andarilho" ],
+    "Tipo": [ "Espadachim", "Guerreiro", "Humano" ],
     "Altura": 1.80,
     "Peso": 78,
     "Imagem": "\\img\\pokemons\\musashi.jpg"
@@ -32,9 +32,8 @@
   {
     "Numero": 4,
     "Nome": "Sasaki Kojiro",
-    "Descricao": "A chama que queima na ponta da cauda é uma indicação de suas emoções. A chama tremula quando Charmander está se divertindo. Se o Pokémon se enfurecer, a chama queima ferozmente.",
-    "Especie": "Espadachim",
-    "Tipo": [ "Espadachim," ],
+    "Descricao": "Kojiro é mostrado como alguém profundamente envolvido em sua própria jornada espiritual e busca por significado. Sua luta com Musashi vai além de simplesmente uma batalha física, sendo também um confronto de ideias e filosofias sobre a vida, a morte e o propósito de suas existências. Ele é retratado como um personagem complexo e fascinante, cuja presença na história adiciona uma dimensão extra de profundidade e significado à narrativa como um todo.",
+    "Tipo": [ "Espadachim", "Guerreiro", "Humano" ],
     "Altura": 1.79,
     "Peso": 77,
     "Imagem": "\\img\\pokemons\\sasaki.jpg"
@@ -44,7 +43,7 @@
     "Nome": "Thorfinn",
     "Descricao": "Charmeleon impiedosamente destrói seus inimigos usando suas garras afiadas. Se encontrar um inimigo forte, ele se torna agressivo. Nesse estado excitado, a chama na ponta de sua cauda brilha com uma cor branca azulada.",
     "Especie": "Viking",
-    "Tipo": [ "Viking" ],
+    "Tipo": [ "Viking", "Guerreiro", "Humano" ],
     "Altura": 1.55,
     "Peso": 48,
     "Imagem": "\\img\\pokemons\\thorfinn.jpg"
@@ -52,9 +51,9 @@
   {
     "Numero": 6,
     "Nome": "Johan Liebert",
-    "Descricao": "Charizard voa pelo céu em busca de oponentes poderosos. Ele respira um calor tão grande que derrete qualquer coisa. No entanto, nunca dá um sopro ardente a qualquer oponente mais fraco que ele.",
+    "Descricao": "Johan é apresentado como uma figura enigmática e manipuladora desde o início da história. Ele é retratado como uma pessoa extremamente carismática e inteligente, capaz de influenciar e controlar aqueles ao seu redor com facilidade. Sua personalidade aparentemente encantadora esconde uma mente calculista e perturbadora, capaz de cometer atos terríveis sem demonstrar remorso.",
     "Especie": "Vilão",
-    "Tipo": [ "Vilão", "Manipulador" ],
+    "Tipo": [ "Vilão", "Gênio" ],
     "Altura": 1.75,
     "Peso": 70,
     "Imagem": "\\img\\pokemons\\johan.jpg"
@@ -62,9 +61,9 @@
   {
     "Numero": 7,
     "Nome": "Monkey D. Luffy",
-    "Descricao": "A concha de Squirtle não é apenas usada para proteção. A forma arredondada da concha e as ranhuras na superfície ajudam a minimizar a resistência na água, permitindo que este Pokémon nade em alta velocidade.",
+    "Descricao": "Luffy possui uma personalidade cativante e irreverente. Ele é conhecido por sua natureza impulsiva e pela sua vontade inabalável de alcançar seus objetivos, não importa quão desafiadores eles possam ser. Sua principal característica é a sua habilidade de comer a Fruta do Diabo Gomu Gomu, que lhe concede poderes elásticos, permitindo-lhe esticar e distorcer seu corpo como borracha.",
     "Especie": "Pirata",
-    "Tipo": [ "Pirata" ],
+    "Tipo": [ "Pirata",  "Líder", "Lutador" ],
     "Altura": 1.74,
     "Peso": 72,
     "Imagem": "\\img\\pokemons\\luffy.png"
@@ -72,9 +71,9 @@
   {
     "Numero": 8,
     "Nome": "Bojack Horseman",
-    "Descricao": "Sua cauda é grande e coberta com um pêlo rico e grosso. A cauda torna-se cada vez mais profunda na cor à medida que Wartortle envelhece. Os arranhõees em sua concha são uma evidência da dureza deste Pokémon como um lutador.",
+    "Descricao": "BoJack é retratado como um personagem profundamente complexo e emocionalmente perturbado. Ele luta com uma série de questões pessoais, incluindo depressão, solidão, baixa autoestima e vício em álcool e drogas. Apesar de sua aparência cômica e suas atitudes muitas vezes egoístas e autodestrutivas, BoJack é retratado de maneira profundamente humana, com camadas de vulnerabilidade e arrependimento.",
     "Especie": "Humanoide",
-    "Tipo": [ "Cavalo" ],
+    "Tipo": [ "Humanoide" ],
     "Altura": 2.01,
     "Peso": 140,
     "Imagem": "\\img\\pokemons\\bojack.jpg"
@@ -82,9 +81,9 @@
   {
     "Numero": 9,
     "Nome": "Ippo",
-    "Descricao": "Blastoise tem bicos de água que se projetam de sua concha. Os bicos de água são muito precisos. Eles podem disparar balas de água com precisão suficiente para atingir latas vazias a uma distância de mais de 60 metros.",
+    "Descricao": "Ippo é inicialmente apresentado como um adolescente tímido e inseguro, frequentemente intimidado por seus colegas de escola. Sua vida muda dramaticamente quando ele é salvo por Takamura Mamoru, um boxeador profissional, de um grupo de valentões.",
     "Especie": "Lutador",
-    "Tipo": [ "Humano" ],
+    "Tipo": [ "Humano", "Lutador" ],
     "Altura": 1.6,
     "Peso": 85.5,
     "Imagem": "\\img\\pokemons\\ippo.jpg"
@@ -94,7 +93,7 @@
     "Nome": "Jack Sparrow",
     "Descricao": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
     "Especie": "Pirata",
-    "Tipo": [ "Capitão" ],
+    "Tipo": [ "Pirata", "Humano", "Líder" ],
     "Altura": 0.3,
     "Peso": 2.9,
     "Imagem": "\\img\\pokemons\\jack.jpg"
@@ -102,9 +101,9 @@
   {
     "Numero": 11,
     "Nome": "Michael Myers",
-    "Descricao": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+    "Descricao": "Michael Myers é frequentemente retratado como uma figura silenciosa e sinistra, vestindo uma máscara branca que oculta seu rosto e suas expressões. Ele é conhecido por sua força sobre-humana, sua resistência implacável e sua habilidade de aparecer e desaparecer misteriosamente, criando uma sensação de inevitabilidade e terror para suas vítimas.",
     "Especie": "Vilão",
-    "Tipo": [ "Assassino" ],
+    "Tipo": [ "Assassino", "Psicopata"],
     "Altura": 0.7,
     "Peso": 9.9,
     "Imagem": "\\img\\pokemons\\michael.jpg"
@@ -112,9 +111,9 @@
   {
     "Numero": 12,
     "Nome": "Walter White",
-    "Descricao": "Butterfree tem uma capacidade superior para procurar mel delicioso de flores. Pode até procurar, extrair e transportar mel de flores que estão desabrochando a mais de 10 quilômetros do ninho.",
+    "Descricao": "Walter White é retratado como um personagem complexo e multifacetado. Ele é motivado inicialmente pelo desejo de fornecer para sua família após sua morte iminente, mas ao longo da série sua ambição e ego começam a desempenhar um papel maior em suas decisões. Ele se torna cada vez mais envolvido no mundo do crime e fica disposto a fazer qualquer coisa para proteger seus negócios e sua própria vida.",
     "Especie": "Professor",
-    "Tipo": [ "Químico", "Criminoso" ],
+    "Tipo": [ "Humano", "Gênio" ],
     "Altura": 1.1,
     "Peso": 32,
     "Imagem": "\\img\\pokemons\\walter.jpg"
@@ -122,9 +121,8 @@
   {
     "Numero": 13,
     "Nome": "Toph Beifong",
-    "Descricao": "Weedle tem um olfato extremamente agudo. Ele é capaz de distinguir seus tipos favoritos de folhas daqueles de que não gosta, apenas farejando com sua grande tromba vermelha (nariz).",
-    "Especie": "Dobradora de Terra",
-    "Tipo": [ "Dobradora"],
+    "Descricao": "Toph é uma mestre da dobra de terra, que se destaca por sua habilidade excepcional e seu estilo único de luta. Ela é conhecida por sua personalidade forte, independente e destemida. Apesar de ser cega desde o nascimento, Toph desenvolveu uma habilidade de dobra de terra tão refinada que lhe permite ver através das vibrações do solo, o que a torna uma lutadora formidável e uma guia habilidosa.",
+    "Tipo": [ "Dobrador"],
     "Altura": 0.3,
     "Peso": 3.2,
     "Imagem": "\\img\\pokemons\\toph.jpg"
@@ -134,7 +132,7 @@
     "Nome": "Hulk",
     "Descricao": "Kakuna permanece praticamente imóvel enquanto se agarra a uma árvore. No entanto, por dentro, é extremamente ocupado, enquanto se prepara para a sua evolução futura. Isso é evidente pelo quão quente a concha fica ao ser tocada.",
     "Especie": "Monstro",
-    "Tipo": [ "Humanoide", "Cientista" ],
+    "Tipo": [ "Humanoide", "Humano" ],
     "Altura": 0.6,
     "Peso": 10,
     "Imagem": "\\img\\pokemons\\hulk.jpg"
@@ -142,9 +140,9 @@
   {
     "Numero": 15,
     "Nome": "Killjoy",
-    "Descricao": "Beedrill é extremamente territorial. Ninguém deve se aproximar de seu ninho, isso é para sua própria segurança. Se irritados, eles atacarão em um enxame furioso.",
+    "Descricao": "Killjoy é retratada como uma jovem engenheira com uma personalidade descontraída e um gosto por tecnologia. Ela é uma especialista em criar dispositivos e equipamentos para controlar o campo de batalha e dar vantagem à sua equipe. Seu conjunto de habilidades se concentra em colocar torres de defesa, minas e dispositivos de vigilância que podem desacelerar, danificar e revelar inimigos.",
     "Especie": "Gênio",
-    "Tipo": [ "Inventora", "Engenheira" ],
+    "Tipo": [ "Atirador", "Humano", "Gênio" ],
     "Altura": 1,
     "Peso": 29.5,
     "Imagem": "\\img\\pokemons\\killjoy.jpg"
@@ -152,9 +150,9 @@
   {
     "Numero": 16,
     "Nome": "Coringa",
-    "Descricao": "Pidgey tem um senso de direção extremamente nítido. Ela é capaz de voltar para o seu ninho de forma infalível, por mais longe que possa ser removida de seu ambiente familiar.",
+    "Descricao": "O Coringa é retratado como um criminoso psicopata e sádico, cujo principal objetivo é semear o caos e a anarquia em Gotham City. Ele é caracterizado por sua personalidade imprevisível e sua risada distinta e maníaca. Sua aparência varia de acordo com as interpretações, mas geralmente inclui cabelo verde, pele branca, lábios vermelhos e uma expressão facial permanente de sorriso sinistro.",
     "Especie": "Vilão",
-    "Tipo": [ "Assassino", "Palhaço" ],
+    "Tipo": [ "Vilão", "Assassino", "Psicopata" ],
     "Altura": 0.3,
     "Peso": 0.5,
     "Imagem": "\\img\\pokemons\\joker.jpg"
@@ -164,7 +162,7 @@
     "Nome": "Mario",
     "Descricao": "Pidgeotto reivindica uma grande área como seu próprio território. Este Pokémon voa, patrulhando seu espaço de vida. Se seu território é violado, não mostra piedade de punir completamente o inimigo com suas garras afiadas.",
     "Especie": "Encanador",
-    "Tipo": [ "Encanador", "Humano" ],
+    "Tipo": [ "Gênio", "Humano" ],
     "Altura": 1.1,
     "Peso": 30,
     "Imagem": "\\img\\pokemons\\mario.jpg"
@@ -172,9 +170,9 @@
   {
     "Numero": 18,
     "Nome": "Jinx",
-    "Descricao": "Este Pokémon tem uma plumagem deslumbrante de penas maravilhosamente brilhantes. Muitos treinadores são cativados pela impressionante beleza das penas em sua cabeça, obrigando-os a escolher Pidgeot como seu Pokémon.",
+    "Descricao": "Jinx é conhecida por seu amor por explosões e caos, bem como por seu comportamento impulsivo e errático. Ela é uma personagem profundamente perturbada, assombrada por seu passado traumático e pela perda de sua família. Seu relacionamento com Vi, sua irmã mais velha e protetora, desempenha um papel central em sua história, com os dois compartilhando um vínculo forte e complicado.",
     "Especie": "Vilão",
-    "Tipo": [ "Atiradora", "Humana" ],
+    "Tipo": [ "Atirador", "Humano" ],
     "Altura": 1.5,
     "Peso": 39.5,
     "Imagem": "\\img\\pokemons\\jinx.jpg"
@@ -182,9 +180,9 @@
   {
     "Numero": 19,
     "Nome": "Kratos",
-    "Descricao": "Seus dentes crescem continuamente ao longo de sua vida. Se seus incisivos ficarem muito longos, esse Pokémon se torna incapaz de comer e morre de fome.",
+    "Descricao": "Kratos é conhecido por sua personalidade forte e determinada. Ele é retratado como um anti-herói impiedoso e muitas vezes violento, disposto a fazer qualquer coisa para alcançar seus objetivos e superar seus inimigos. No entanto, ao longo da série, ele também mostra momentos de humanidade e compaixão, especialmente em relação a seu filho, Atreus.",
     "Especie": "Deus",
-    "Tipo": [ "Guerreiro" ],
+    "Tipo": [ "Deus", "Guerreiro" ],
     "Altura": 0.3,
     "Peso": 3.5,
     "Imagem": "\\img\\pokemons\\kratos.jpg"
@@ -192,9 +190,9 @@
   {
     "Numero": 20,
     "Nome": "Hannibal Lecter",
-    "Descricao": "As presas fortes de Raticate crescem constantemente. Para mantê-los triturados, roem pedras e troncos. Pode até mastigar as paredes das casas. Seus bigodes são essenciais para manter o seu equilíbrio. Não importa o quão amigável você seja, ele ficará com raiva e o morderá se tocar em seus bigodes.",
+    "Descricao": "Hannibal Lecter é retratado como um homem de gostos refinados, conhecimentos vastos em várias áreas e habilidades sociais excepcionais. No entanto, ele esconde uma personalidade sombria e sinistra por trás de sua fachada educada e charmosa. Ele é um manipulador mestre, capaz de seduzir e enganar aqueles ao seu redor para alcançar seus próprios objetivos.",
     "Especie": "Vilão",
-    "Tipo": [ "Médico" ],
+    "Tipo": [ "Vilão", "Assassino" ],
     "Altura": 0.7,
     "Peso": 18.5,
     "Imagem": "\\img\\pokemons\\hannibal.jpg"
