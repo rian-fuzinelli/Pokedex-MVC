@@ -16,7 +16,7 @@
     "Especie": "Vilão",
     "Tipo": [ "Vilão", "Líder", "Demônio" ],
     "Altura": 1.78,
-    "Peso": 75,
+    "Peso": 66,
     "Imagem": "\\img\\pokemons\\griffith.png"
   },
   {
@@ -75,7 +75,7 @@
     "Especie": "Humanoide",
     "Tipo": [ "Humanoide" ],
     "Altura": 2.01,
-    "Peso": 140,
+    "Peso": 500,
     "Imagem": "\\img\\pokemons\\bojack.jpg"
   },
   {
@@ -84,8 +84,8 @@
     "Descricao": "Ippo é inicialmente apresentado como um adolescente tímido e inseguro, frequentemente intimidado por seus colegas de escola. Sua vida muda dramaticamente quando ele é salvo por Takamura Mamoru, um boxeador profissional, de um grupo de valentões.",
     "Especie": "Lutador",
     "Tipo": [ "Humano", "Lutador" ],
-    "Altura": 1.6,
-    "Peso": 85.5,
+    "Altura": 1.64,
+    "Peso": 57,
     "Imagem": "\\img\\pokemons\\ippo.jpg"
   },
   {
@@ -94,8 +94,8 @@
     "Descricao": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
     "Especie": "Pirata",
     "Tipo": [ "Pirata", "Humano", "Líder" ],
-    "Altura": 0.3,
-    "Peso": 2.9,
+    "Altura": 1.75,
+    "Peso": 68,
     "Imagem": "\\img\\pokemons\\jack.jpg"
   },
   {
@@ -104,8 +104,8 @@
     "Descricao": "Michael Myers é frequentemente retratado como uma figura silenciosa e sinistra, vestindo uma máscara branca que oculta seu rosto e suas expressões. Ele é conhecido por sua força sobre-humana, sua resistência implacável e sua habilidade de aparecer e desaparecer misteriosamente, criando uma sensação de inevitabilidade e terror para suas vítimas.",
     "Especie": "Vilão",
     "Tipo": [ "Assassino", "Psicopata"],
-    "Altura": 0.7,
-    "Peso": 9.9,
+    "Altura": 2.03,
+    "Peso": 104,
     "Imagem": "\\img\\pokemons\\michael.jpg"
   },
   {
@@ -114,8 +114,8 @@
     "Descricao": "Walter White é retratado como um personagem complexo e multifacetado. Ele é motivado inicialmente pelo desejo de fornecer para sua família após sua morte iminente, mas ao longo da série sua ambição e ego começam a desempenhar um papel maior em suas decisões. Ele se torna cada vez mais envolvido no mundo do crime e fica disposto a fazer qualquer coisa para proteger seus negócios e sua própria vida.",
     "Especie": "Professor",
     "Tipo": [ "Humano", "Gênio" ],
-    "Altura": 1.1,
-    "Peso": 32,
+    "Altura": 1.79,
+    "Peso": 79,
     "Imagem": "\\img\\pokemons\\walter.jpg"
   },
   {
@@ -133,8 +133,8 @@
     "Descricao": "Kakuna permanece praticamente imóvel enquanto se agarra a uma árvore. No entanto, por dentro, é extremamente ocupado, enquanto se prepara para a sua evolução futura. Isso é evidente pelo quão quente a concha fica ao ser tocada.",
     "Especie": "Monstro",
     "Tipo": [ "Humanoide", "Humano" ],
-    "Altura": 0.6,
-    "Peso": 10,
+    "Altura": 2.63,
+    "Peso": 500,
     "Imagem": "\\img\\pokemons\\hulk.jpg"
   },
   {
@@ -143,8 +143,8 @@
     "Descricao": "Killjoy é retratada como uma jovem engenheira com uma personalidade descontraída e um gosto por tecnologia. Ela é uma especialista em criar dispositivos e equipamentos para controlar o campo de batalha e dar vantagem à sua equipe. Seu conjunto de habilidades se concentra em colocar torres de defesa, minas e dispositivos de vigilância que podem desacelerar, danificar e revelar inimigos.",
     "Especie": "Gênio",
     "Tipo": [ "Atirador", "Humano", "Gênio" ],
-    "Altura": 1,
-    "Peso": 29.5,
+    "Altura": 1.75,
+    "Peso": 68,
     "Imagem": "\\img\\pokemons\\killjoy.jpg"
   },
   {
@@ -153,8 +153,8 @@
     "Descricao": "O Coringa é retratado como um criminoso psicopata e sádico, cujo principal objetivo é semear o caos e a anarquia em Gotham City. Ele é caracterizado por sua personalidade imprevisível e sua risada distinta e maníaca. Sua aparência varia de acordo com as interpretações, mas geralmente inclui cabelo verde, pele branca, lábios vermelhos e uma expressão facial permanente de sorriso sinistro.",
     "Especie": "Vilão",
     "Tipo": [ "Vilão", "Assassino", "Psicopata" ],
-    "Altura": 0.3,
-    "Peso": 0.5,
+    "Altura": 1.83,
+    "Peso": 63,
     "Imagem": "\\img\\pokemons\\joker.jpg"
   },
   {
@@ -163,8 +163,8 @@
     "Descricao": "Pidgeotto reivindica uma grande área como seu próprio território. Este Pokémon voa, patrulhando seu espaço de vida. Se seu território é violado, não mostra piedade de punir completamente o inimigo com suas garras afiadas.",
     "Especie": "Encanador",
     "Tipo": [ "Gênio", "Humano" ],
-    "Altura": 1.1,
-    "Peso": 30,
+    "Altura": 1.55,
+    "Peso": 60,
     "Imagem": "\\img\\pokemons\\mario.jpg"
   },
   {
@@ -173,8 +173,8 @@
     "Descricao": "Jinx é conhecida por seu amor por explosões e caos, bem como por seu comportamento impulsivo e errático. Ela é uma personagem profundamente perturbada, assombrada por seu passado traumático e pela perda de sua família. Seu relacionamento com Vi, sua irmã mais velha e protetora, desempenha um papel central em sua história, com os dois compartilhando um vínculo forte e complicado.",
     "Especie": "Vilão",
     "Tipo": [ "Atirador", "Humano" ],
-    "Altura": 1.5,
-    "Peso": 39.5,
+    "Altura": 1.60,
+    "Peso": 45,
     "Imagem": "\\img\\pokemons\\jinx.jpg"
   },
   {
@@ -183,8 +183,8 @@
     "Descricao": "Kratos é conhecido por sua personalidade forte e determinada. Ele é retratado como um anti-herói impiedoso e muitas vezes violento, disposto a fazer qualquer coisa para alcançar seus objetivos e superar seus inimigos. No entanto, ao longo da série, ele também mostra momentos de humanidade e compaixão, especialmente em relação a seu filho, Atreus.",
     "Especie": "Deus",
     "Tipo": [ "Deus", "Guerreiro" ],
-    "Altura": 0.3,
-    "Peso": 3.5,
+    "Altura": 1.94,
+    "Peso": 110,
     "Imagem": "\\img\\pokemons\\kratos.jpg"
   },
   {
@@ -193,8 +193,8 @@
     "Descricao": "Hannibal Lecter é retratado como um homem de gostos refinados, conhecimentos vastos em várias áreas e habilidades sociais excepcionais. No entanto, ele esconde uma personalidade sombria e sinistra por trás de sua fachada educada e charmosa. Ele é um manipulador mestre, capaz de seduzir e enganar aqueles ao seu redor para alcançar seus próprios objetivos.",
     "Especie": "Vilão",
     "Tipo": [ "Vilão", "Assassino" ],
-    "Altura": 0.7,
-    "Peso": 18.5,
+    "Altura": 1.73,
+    "Peso": 82,
     "Imagem": "\\img\\pokemons\\hannibal.jpg"
   }
 ]
