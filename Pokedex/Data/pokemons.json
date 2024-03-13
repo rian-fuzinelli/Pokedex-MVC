@@ -23,7 +23,7 @@
     "Numero": 3,
     "Nome": "Miyamoto Musashi",
     "Descricao": "Musashi é retratado como alguém que está constantemente buscando aperfeiçoar suas habilidades na espada, mas também está em busca de um propósito maior na vida. Ele é retratado como um indivíduo introspectivo e filosófico, que questiona as convenções sociais e busca uma compreensão mais profunda do significado da existência e do caminho do guerreiro.",
-    "Especie": "Espadachim",
+    "Especie": "Samurai",
     "Tipo": [ "Espadachim", "Guerreiro", "Humano" ],
     "Altura": 1.80,
     "Peso": 78,
@@ -32,6 +32,7 @@
   {
     "Numero": 4,
     "Nome": "Sasaki Kojiro",
+    "Especie": "Samurai",
     "Descricao": "Kojiro é mostrado como alguém profundamente envolvido em sua própria jornada espiritual e busca por significado. Sua luta com Musashi vai além de simplesmente uma batalha física, sendo também um confronto de ideias e filosofias sobre a vida, a morte e o propósito de suas existências. Ele é retratado como um personagem complexo e fascinante, cuja presença na história adiciona uma dimensão extra de profundidade e significado à narrativa como um todo.",
     "Tipo": [ "Espadachim", "Guerreiro", "Humano" ],
     "Altura": 1.79,
@@ -41,7 +42,7 @@
   {
     "Numero": 5,
     "Nome": "Thorfinn",
-    "Descricao": "Charmeleon impiedosamente destrói seus inimigos usando suas garras afiadas. Se encontrar um inimigo forte, ele se torna agressivo. Nesse estado excitado, a chama na ponta de sua cauda brilha com uma cor branca azulada.",
+    "Descricao": "Thorfinn é retratado como um personagem complexo, profundamente humano, que passa por um significativo crescimento pessoal ao longo da série. Sua história é marcada por temas de redenção, perdão, e busca por um significado mais elevado na vida, tornando-o um protagonista cativante e memorável.",
     "Especie": "Viking",
     "Tipo": [ "Viking", "Guerreiro", "Humano" ],
     "Altura": 1.55,
@@ -91,7 +92,7 @@
   {
     "Numero": 10,
     "Nome": "Jack Sparrow",
-    "Descricao": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
+    "Descricao": "Jack Sparrow é conhecido por sua personalidade peculiar e comportamento imprevisível. Ele é frequentemente retratado como um anti-herói, cujas motivações muitas vezes giram em torno de seus próprios interesses egoístas. No entanto, apesar de sua natureza egoísta, Sparrow é conhecido por sua inteligência e habilidade de pensar rapidamente em situações difíceis.",
     "Especie": "Pirata",
     "Tipo": [ "Pirata", "Humano", "Líder" ],
     "Altura": 1.75,
@@ -122,9 +123,10 @@
     "Numero": 13,
     "Nome": "Toph Beifong",
     "Descricao": "Toph é uma mestre da dobra de terra, que se destaca por sua habilidade excepcional e seu estilo único de luta. Ela é conhecida por sua personalidade forte, independente e destemida. Apesar de ser cega desde o nascimento, Toph desenvolveu uma habilidade de dobra de terra tão refinada que lhe permite ver através das vibrações do solo, o que a torna uma lutadora formidável e uma guia habilidosa.",
+    "Especie": "Elementalista",
     "Tipo": [ "Dobrador"],
-    "Altura": 0.3,
-    "Peso": 3.2,
+    "Altura": 1.20,
+    "Peso": 18,
     "Imagem": "\\img\\pokemons\\toph.jpg"
   },
   {
@@ -160,7 +162,7 @@
   {
     "Numero": 17,
     "Nome": "Mario",
-    "Descricao": "Pidgeotto reivindica uma grande área como seu próprio território. Este Pokémon voa, patrulhando seu espaço de vida. Se seu território é violado, não mostra piedade de punir completamente o inimigo com suas garras afiadas.",
+    "Descricao": "Além de suas habilidades físicas e sua disposição para aventuras, Mario é conhecido por sua personalidade alegre e otimista. Ele é um símbolo de determinação e coragem, sempre disposto a enfrentar qualquer desafio que surgir em seu caminho para salvar a Princesa Peach e proteger o Reino dos Cogumelos.",
     "Especie": "Encanador",
     "Tipo": [ "Gênio", "Humano" ],
     "Altura": 1.55,
