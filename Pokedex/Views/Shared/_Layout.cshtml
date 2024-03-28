@@ -20,17 +20,17 @@
 
 <body>
     <header>
-        <div class="navbar navbar-dark bg-primary" id="navbarHeader">
+        <div class="collapse bg-black" id="navbarHeader">
             <div class="container">
-            <div class="row">
-            <div class="col-sm-8 col-md-7 py-4">
-            <h4 class="text-white">Sobre</h4>
+                <div class="row">
+                    <div class="col-sm-8 col-md-7 py-4">
+                        <h4 class="text-white">Sobre</h4>
                         <p class="text-white">
                             Projeto desenvolvido para demonstrar a criação de páginas WEB com Net 6.0.
                             Demonstrar a criação de aplicações com padrão MVC e leitura de arquivos JSON,
                             além de boas práticas de Programação Orientada a Objetos, Páginas Dinâmicas e Uso de Sessão.
                         </p>
-                          </div>
+                    </div>
                     <div class="col-sm-4 offset-md-1 py-4">
                         <h4 class="text-white">Contatos</h4>
                         <ul class="list-unstyled">
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </div>
-          <div class="navbar navbar-dark bg-danger shadow-sm">
+          <div class="navbar navbar-dark bg-black shadow-sm">
             <div class="container">
                 <a asp-controller="Home" asp-action="Index" class="navbar-brand d-flex align-items-center">
                 <img src="~/img/favicons/popfavicon-32x32.png" alt="Popculture" class="me-2" />
@@ -56,7 +56,7 @@
         </div>
     </header>
 
-    <main style="background-image: url('img/background/popbackground.jpg'); background-size: contain; background-position: center; min-height: 100vh;">
+    <main>
         @RenderBody()
 
 

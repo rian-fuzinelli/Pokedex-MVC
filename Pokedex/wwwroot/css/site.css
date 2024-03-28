@@ -12,3 +12,15 @@
 .cursor-pointer {
     cursor: pointer;
 }
+
+.h1{
+    color: black;
+}
+
+.card-body{
+    background-color: white;
+}
+
+.card-title{
+    color: black;
+}
